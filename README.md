@@ -49,16 +49,20 @@ _Le schermata sono state acquisite dal progetto realizzato._
     2.1. Crea ambiente virtuale
 
         -m venv myenv
+
    
     2.2 attiva ambiente virtuale:
+
    
         2.2.1     mac
     
                     -m venv myenv
+   
        
         2.2.1     wind
     
                     -m venv myenv
+   
 
 3.scarica tkinter in ambiente virtuale:pip install tk
 
