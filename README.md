@@ -16,7 +16,7 @@ _La schermata è stata acquisita dal progetto realizzato._
 2. [Funzionalità](#casi-duso)
 3. [Riepilogo Tecnico](#riepilogo-tecnico)
 
---
+---
 
 ## Crediti
 
