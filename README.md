@@ -66,6 +66,14 @@ Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzon
 
 #### Scala del Pitch
 
+
+
+| Viewfinder| Horizon| PitchLadder | Display| 
+| ------------ | ------------ | ------------ | ------------ | 
+| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/perpendicolare.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/parallele.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/retta.png" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/segmento.png" alt="Icona" width="200"/>| 
+|1| 2 | 3 |  4 |
+
+
 Dati i due punti estremi dell'orrizonte:
   - calcolo centro del segmento compreso
   - calcolo due punti equidistanti dal centro ed appartenenti all'orizzonte
