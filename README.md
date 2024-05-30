@@ -47,15 +47,6 @@ Elaborazione dei dati di pitch e roll per la visualizzazione dei componenti graf
 
 ### Soluzione 
 
-
-#### Mirino
-
-Dato il centro del display crea il mirino come:
-  - un mirino quadrato centrale
-  - due ali specchiate dal centro
-
-
-
 #### Orizzonte
 
 Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzonte come:
