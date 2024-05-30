@@ -89,15 +89,15 @@ Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzon
 
           -m venv myenv
 
-    2.2 attiva ambiente virtuale Max:
+    2.2. attiva ambiente virtuale Max:
 
           source myenv/bin/activate
    
-    2.3 attiva ambiente virtuale Windows:
+    2.3. attiva ambiente virtuale Windows:
     
           .\myenv\Scripts\Activate
 
-3 scarica tkinter 8.6 in ambiente virtuale:
+3. scarica tkinter 8.6 in ambiente virtuale:
 
           pip install tk
 
