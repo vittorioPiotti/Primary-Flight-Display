@@ -12,18 +12,16 @@ _La schermata è stata acquisita dal progetto realizzato._
 
 ## Indice
 
-1. [Copyright](#copyright)
-2. [Funzionalità](#casi-duso)
-3. [Riepilogo Tecnico](#riepilogo-tecnico)
-4. [Crediti](#crediti)
+1. [Prodotto](#casi-duso)
+2. [Riepilogo Tecnico](#riepilogo-tecnico)
+3. [Crediti](#crediti)
 
 ---
 
 
-## Copyright
 
-> [!TIP]
-> Il software è open-source
+
+### Prodotto
 
 ## Funzionalità
 
@@ -34,11 +32,16 @@ _Le schermata sono state acquisite dal progetto realizzato._
 | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Viewfinder.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Horizon.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/PitchLadder.png" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Display.png" alt="Icona" width="200"/>| 
 |1| 2 | 3 |  4 |
 
-
 1. Mirino 
 2. Orizzonte 
 3. Scala del Pitch
 4. Display funzionante
+
+### Copyright
+
+> [!TIP]
+> Il software è open-source
+
 
 ## Riepilogo Tecnico 
 
