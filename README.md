@@ -21,9 +21,9 @@ _La schermata è stata acquisita dal progetto realizzato._
 
 
 
-### Prodotto
+## Prodotto
 
-## Funzionalità
+### Funzionalità
 
 _Le schermata sono state acquisite dal progetto realizzato._
 
