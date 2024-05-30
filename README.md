@@ -117,8 +117,8 @@ $ tree
 │   ├── Test_Horizon.py
 │   ├── Test_PitchLadder.py
 │   └── Test_Viewfinder.py
-├── civitanavi_client.py
-├── civitanavi_server.py
+├── client.py
+├── server.py
 └── display.py
 
 ```
