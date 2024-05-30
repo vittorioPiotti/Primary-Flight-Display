@@ -30,6 +30,11 @@ _La schermata è stata acquisita dal progetto realizzato._
 
 _Le schermate sono a scopo illustrativo._
 
+| Scegli Hotel| Scegli Stanza | Prenota | Scegli Data | 
+| ------------ | ------------ | ------------ | ------------ | 
+| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Display.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Display.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Display.png" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Display.png" alt="Icona" width="200"/>| 
+|1| 2 | 3 |  4 |
+
 
 ## Crediti
 
