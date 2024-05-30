@@ -18,3 +18,15 @@ _La schermata è stata acquisita dal progetto realizzato._
 - Teammate Two
 - Teammate Three
 - Vittorio Piotti
+
+## Riepilogo Prodotto
+
+### Prodotto
+
+Soluzione software Primary Flight Display
+
+## Funzionalità
+
+_ Le schermate sono a scopo rappresentativo e non devono essere acquisite dal progetto realizzato. _
+
+
