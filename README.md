@@ -47,6 +47,7 @@ _Le schermata sono state acquisite dal progetto realizzato._
 1.Configura Python v.3.12
 2.Importa TKinter v.8.6
 3.Configura ambiente di sviluppo virtuale: ```bash
+$
 
  -m venv myenv
 ```
