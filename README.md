@@ -58,7 +58,7 @@ _Le schermata sono state acquisite dal progetto realizzato._
     
         -m venv myenv
 
-3.scarica tkinter in ambiente virtuale:
+3.scarica tkinter 8.6 in ambiente virtuale:
 
         pip install tk
 
