@@ -101,6 +101,8 @@ Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzon
 
           pip install tk
 
+4. aggiungi i sorgenti e dove necessario sostituisci
+
 
 
 ## Crediti
