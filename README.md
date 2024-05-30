@@ -107,38 +107,19 @@ Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzon
 ```bash
 $ tree
 .
-└── src
-    ├── assets 
-    │   ├── fonts
-    │   └── images
-    ├── scripts
-    │   ├── constants
-    │   │   ├── activities.tsx
-    │   │   ├── colors.tsx
-    │   │   ├── connection.tsx
-    │   │   ├── fonts.tsx
-    │   │   ├── images.tsx
-    │   │   └── screens.tsx
-    │   ├── features
-    │   │   ├── navigation
-    │   │   │   ├── Books.tsx
-    │   │   │   ├── Home.tsx
-    │   │   │   ├── Hotel.tsx
-    │   │   │   ├── Room.tsx
-    │   │   │   └── Rooms.tsx
-    │   │   ├── onboarding
-    │   │   │   └── Preview.tsx
-    │   │   └── profile
-    │   │       ├── Auth.tsx
-    │   │       ├── Profile.tsx
-    │   │       ├── Settings.tsx
-    │   │       └── SignIn.tsx
-    │   └── layouts
-    │       ├── Calendar.tsx
-    │       ├── Footer.tsx
-    │       ├── Header.tsx
-    │       └── Modal.tsx
-    └── App.tsx
+├── src
+│   ├── Calc.py
+│   ├── Horizon.py
+│   ├── PitchLadder.py
+│   └── Viewfinder.py
+├── test
+│   ├── Test_Calc.py
+│   ├── Test_Horizon.py
+│   ├── Test_PitchLadder.py
+│   └── Test_Viewfinder.py
+├── civitanavi_client.py
+├── civitanavi_server.py
+└── display.py
 
 ```
 
