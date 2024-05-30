@@ -54,7 +54,7 @@ Elaborazione dei dati di pitch e roll per la visualizzazione dei componenti graf
 |1| 2 | 3 | 
 
 Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzonte come:
-  - Display 600x600
+  - Display di dimensione variabile
   - Orizzonte come segmento tra i punti degli estremi del display
   - Terra come quadrilatero compreso tra la base e l'orizzonte del display
 
