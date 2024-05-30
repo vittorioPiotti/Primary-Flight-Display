@@ -47,6 +47,43 @@ _Le schermata sono state acquisite dal progetto realizzato._
 1.Configura Python v.3.12
 2.Importa TKinter v.8.6
 3.Configura ambiente di sviluppo virtuale: 
+```bash
+$ tree
+.
+└── src
+    ├── assets 
+    │   ├── fonts
+    │   └── images
+    ├── scripts
+    │   ├── constants
+    │   │   ├── activities.tsx
+    │   │   ├── colors.tsx
+    │   │   ├── connection.tsx
+    │   │   ├── fonts.tsx
+    │   │   ├── images.tsx
+    │   │   └── screens.tsx
+    │   ├── features
+    │   │   ├── navigation
+    │   │   │   ├── Books.tsx
+    │   │   │   ├── Home.tsx
+    │   │   │   ├── Hotel.tsx
+    │   │   │   ├── Room.tsx
+    │   │   │   └── Rooms.tsx
+    │   │   ├── onboarding
+    │   │   │   └── Preview.tsx
+    │   │   └── profile
+    │   │       ├── Auth.tsx
+    │   │       ├── Profile.tsx
+    │   │       ├── Settings.tsx
+    │   │       └── SignIn.tsx
+    │   └── layouts
+    │       ├── Calendar.tsx
+    │       ├── Footer.tsx
+    │       ├── Header.tsx
+    │       └── Modal.tsx
+    └── App.tsx
+
+```
 
  -m venv myenv
 
