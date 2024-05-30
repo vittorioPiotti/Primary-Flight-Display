@@ -42,6 +42,21 @@ _Le schermata sono state acquisite dal progetto realizzato._
 > [!TIP]
 > Il software è open-source
 
+### Distribuzione Locale
+
+1.Configura Python v.3.12
+2.Importa TKinter v.8.6
+3.Configura ambiente di sviluppo virtuale: ```bash
+
+ -m venv myenv
+```
+
+
+
+2.attiva ambiente virtuale:
+2.1.mac: source myenv/bin/activate
+2.2.wind:.\myenv\Scripts\Activate
+3.scarica tkinter in ambiente virtuale:pip install tk
 
 ## Riepilogo Tecnico 
 
