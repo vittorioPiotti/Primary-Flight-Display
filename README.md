@@ -41,6 +41,7 @@ _Le schermata sono state acquisite dal progetto realizzato._
 ### Obbiettivo
 
 Ricevere con frequenza di 100 ms i dati in formato json da server python.
+
 Elaborare i dati di pitch e roll per la visualizzazione del Primary Flight Display.
 
 
