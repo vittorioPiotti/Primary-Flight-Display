@@ -84,6 +84,7 @@ Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzon
 
 1. Configura Python v.3.12
 2. Configura ambiente virtuale:
+   
     2.1. Crea ambiente virtuale
 
           -m venv myenv
