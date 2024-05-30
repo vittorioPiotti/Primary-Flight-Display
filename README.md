@@ -54,9 +54,9 @@ Elaborazione dei dati di pitch e roll per la visualizzazione dei componenti graf
 |1| 2 | 3 | 
 
 Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzonte come:
-  - Display di dimensione variabile
-  - Orizzonte come segmento tra i punti degli estremi del display
-  - Terra come quadrilatero compreso tra la base e l'orizzonte del display
+  1. Display di dimensione variabile
+  2. Orizzonte come segmento tra i punti degli estremi del display
+  3. Terra come quadrilatero compreso tra la base e l'orizzonte del display
 
 
 #### Scala del Pitch
