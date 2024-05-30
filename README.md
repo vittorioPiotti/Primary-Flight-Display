@@ -121,7 +121,7 @@ Comunicazione con server web:
           pip install tk
 
 
-### ALbero di Path
+### Albero di Path
 
 ```bash
 $ tree
