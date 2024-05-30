@@ -50,12 +50,26 @@ Elaborazione dei dati di pitch e roll per la visualizzazione dei componenti graf
 
 #### Mirino
 
+Dato il centro del display crea il mirino come:
+  - un mirino quadrato centrale
+  - due ali specchiate dal centro
+
+
 
 #### Orizzonte
+
+Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzonte come:
+  - uno sfondo di colore cielo tutto schermo
+  - una linea di colore bianco tra questi punti per separare il cielo dalla terra
+  - Un quadrilatero di colore terra con massima altezza nei punti dati e base compresa tra i due margini bassi del display
 
 
 #### Scala del Pitch
 
+Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzonte come:
+  - uno sfondo di colore cielo tutto schermo
+  - una linea di colore bianco tra questi punti per separare il cielo dalla terra
+  - Un quadrilatero di colore terra con massima altezza nei punti dati e base compresa tra i due margini bassi del display
 
 
 
