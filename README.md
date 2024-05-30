@@ -25,10 +25,9 @@ _La schermata è stata acquisita dal progetto realizzato._
 
 _Le schermata sono state acquisite dal progetto realizzato._
 
-
-
-| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Viewfinder.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Horizon.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/PitchLadder.png" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Display.png" alt="Icona" width="200"/>| 
+| Mirino| Orizzonte| Scala del Pitch | Display| 
 | ------------ | ------------ | ------------ | ------------ | 
+| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Viewfinder.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Horizon.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/PitchLadder.png" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Display.png" alt="Icona" width="200"/>| 
 |1| 2 | 3 |  4 |
 
 
@@ -69,9 +68,9 @@ Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzon
 
 
 
-| Perpendicolare| Parallele| Rette | Segmenti| 
-| ------------ | ------------ | ------------ | ------------ | 
+
 | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/perpendicolare.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/parallele.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/retta.png" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/segmento.png" alt="Icona" width="200"/>| 
+| ------------ | ------------ | ------------ | ------------ | 
 |1| 2 | 3 |  4 |
 
 
