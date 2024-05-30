@@ -75,8 +75,8 @@ Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzon
 
 
 Dati i due punti estremi dell'orrizonte:
-  - Dato l'orizzonte ed il centro si calcola la retta passante per il centro e perpendicolare all'orizzonte
-  - calcolo due punti equidistanti dal centro ed appartenenti all'orizzonte
+  - Data la retta dell'orizzonte ed il centro del display si calcola la retta passante per il centro e perpendicolare all'orizzonte
+  - Data la retta dell'orizzonte e la retta ad esso perpendicolare si determina il punto di intersezione tra le parallele dell'orizzonte e la perpendicolare all'orizzonte
   - trasla 
 
 
