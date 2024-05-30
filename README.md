@@ -12,7 +12,7 @@ _La schermata è stata acquisita dal progetto realizzato._
 
 ## Indice
 
-1. [Prodotto](#casi-duso)
+1. [Prodotto](#prodotto)
 2. [Riepilogo Tecnico](#riepilogo-tecnico)
 3. [Crediti](#crediti)
 
