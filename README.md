@@ -41,6 +41,7 @@ _Le schermata sono state acquisite dal progetto realizzato._
 ### Obbiettivo
 
 Ricezione con una frequenza di 100 ms i dati in formato json dal server python.
+
 Elaborazione dei dati di pitch e roll per la visualizzazione dei componenti grafici.
 
 
