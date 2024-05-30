@@ -15,15 +15,10 @@ _La schermata è stata acquisita dal progetto realizzato._
 1. [Riepilogo Prodotto](#riepilogo-prodotto)
 2. [Funzionalità](#casi-duso)
 3. [Riepilogo Tecnico](#riepilogo-tecnico)
+4. [Crediti](#crediti)
 
 ---
 
-## Crediti
-
-- Teammate One
-- Teammate Two
-- Teammate Three
-- Vittorio Piotti
 
 ## Riepilogo Prodotto
 
@@ -34,5 +29,13 @@ _La schermata è stata acquisita dal progetto realizzato._
 ## Funzionalità
 
 _Le schermate sono a scopo illustrativo._
+
+
+## Crediti
+
+- Teammate One
+- Teammate Two
+- Teammate Three
+- Vittorio Piotti
 
 
