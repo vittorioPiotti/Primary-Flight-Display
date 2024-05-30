@@ -54,12 +54,12 @@ _Le schermata sono state acquisite dal progetto realizzato._
     2.2 attiva ambiente virtuale:
 
    
-        2.2.1     mac
+     2.2.1     mac
     
                     -m venv myenv
    
        
-        2.2.1     wind
+      2.2.1     wind
     
                     -m venv myenv
    
