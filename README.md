@@ -45,23 +45,20 @@ _Le schermata sono state acquisite dal progetto realizzato._
 ### Distribuzione Locale
 
 1. Configura Python v.3.12
-2. Importa TKinter v.8.6
-3. Configura ambiente virtuale:
-    3.1. Crea ambiente virtuale
-   
-        
-        
+2. Configura ambiente virtuale:
+    2.1. Crea ambiente virtuale
+
         -m venv myenv
-        
+    2.2 attiva ambiente virtuale:
+   
+        2.2.1     mac
+    
+                    -m venv myenv
+       
+        2.2.1     wind
+    
+                    -m venv myenv
 
- 
-
-
-
-
-2.attiva ambiente virtuale:
-2.1.mac: source myenv/bin/activate
-2.2.wind:.\myenv\Scripts\Activate
 3.scarica tkinter in ambiente virtuale:pip install tk
 
 ## Riepilogo Tecnico 
