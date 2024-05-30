@@ -31,6 +31,14 @@ _Le schermata sono state acquisite dal progetto realizzato._
 |1| 2 | 3 |  4 |
 
 
+1. Mirino 
+2. Orizzonte 
+3. Scala del pitch
+4. Display funzionante
+
+
+
+
 ## Crediti
 
 - Teammate One
