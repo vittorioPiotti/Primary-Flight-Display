@@ -68,7 +68,7 @@ Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzon
 
 
 
-| Viewfinder| Horizon| PitchLadder | Display| 
+| Perpendicolare| Parallele| Rette | Segmenti| 
 | ------------ | ------------ | ------------ | ------------ | 
 | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/perpendicolare.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/parallele.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/retta.png" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/segmento.png" alt="Icona" width="200"/>| 
 |1| 2 | 3 |  4 |
