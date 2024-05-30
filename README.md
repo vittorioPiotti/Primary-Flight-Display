@@ -12,14 +12,18 @@ _La schermata è stata acquisita dal progetto realizzato._
 
 ## Indice
 
-1. [Funzionalità](#casi-duso)
-2. [Riepilogo Tecnico](#riepilogo-tecnico)
-3. [Crediti](#crediti)
+1. [Copyright](#copyright)
+2. [Funzionalità](#casi-duso)
+3. [Riepilogo Tecnico](#riepilogo-tecnico)
+4. [Crediti](#crediti)
 
 ---
 
 
+## Copyright
 
+> [!TIP]
+> Il software è open-source
 
 ## Funzionalità
 
