@@ -19,10 +19,6 @@ _La schermata è stata acquisita dal progetto realizzato._
 ---
 
 
-## Riepilogo Prodotto
-
-
-
 
 
 ## Funzionalità
