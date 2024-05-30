@@ -44,9 +44,9 @@ _Le schermata sono state acquisite dal progetto realizzato._
 
 ### Distribuzione Locale
 
-1.Configura Python v.3.12
-2.Importa TKinter v.8.6
-3.Configura ambiente virtuale: 
+1. Configura Python v.3.12
+2. Importa TKinter v.8.6
+3. Configura ambiente virtuale: 
  3.1 Crea ambiente virtuale
  ```bash
  
