@@ -42,26 +42,6 @@ _Le schermata sono state acquisite dal progetto realizzato._
 > [!TIP]
 > Il software è open-source
 
-### Distribuzione Locale
-
-1. Configura Python v.3.12
-2. Configura ambiente virtuale:
-    2.1. Crea ambiente virtuale
-
-        -m venv myenv
-
-    2.2 attiva ambiente virtuale Max:
-
-        -m venv myenv
-   
-    2.3 attiva ambiente virtuale Windows:
-    
-        -m venv myenv
-
-3.scarica tkinter 8.6 in ambiente virtuale:
-
-        pip install tk
-
 ## Riepilogo Tecnico 
 
 ### Obbiettivo
@@ -100,6 +80,25 @@ Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzon
 
 
 
+### Distribuzione Locale
+
+1. Configura Python v.3.12
+2. Configura ambiente virtuale:
+    2.1. Crea ambiente virtuale
+
+        -m venv myenv
+
+    2.2 attiva ambiente virtuale Max:
+
+        source myenv/bin/activate
+   
+    2.3 attiva ambiente virtuale Windows:
+    
+        .\myenv\Scripts\Activate
+
+3.scarica tkinter 8.6 in ambiente virtuale:
+
+        pip install tk
 
 
 
