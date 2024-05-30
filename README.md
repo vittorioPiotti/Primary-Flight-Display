@@ -50,38 +50,7 @@ _Le schermata sono state acquisite dal progetto realizzato._
 ```bash
 $ tree
 .
-└── src
-    ├── assets 
-    │   ├── fonts
-    │   └── images
-    ├── scripts
-    │   ├── constants
-    │   │   ├── activities.tsx
-    │   │   ├── colors.tsx
-    │   │   ├── connection.tsx
-    │   │   ├── fonts.tsx
-    │   │   ├── images.tsx
-    │   │   └── screens.tsx
-    │   ├── features
-    │   │   ├── navigation
-    │   │   │   ├── Books.tsx
-    │   │   │   ├── Home.tsx
-    │   │   │   ├── Hotel.tsx
-    │   │   │   ├── Room.tsx
-    │   │   │   └── Rooms.tsx
-    │   │   ├── onboarding
-    │   │   │   └── Preview.tsx
-    │   │   └── profile
-    │   │       ├── Auth.tsx
-    │   │       ├── Profile.tsx
-    │   │       ├── Settings.tsx
-    │   │       └── SignIn.tsx
-    │   └── layouts
-    │       ├── Calendar.tsx
-    │       ├── Footer.tsx
-    │       ├── Header.tsx
-    │       └── Modal.tsx
-    └── App.tsx
+
 
 ```
 
