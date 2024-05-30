@@ -28,9 +28,9 @@ _La schermata è stata acquisita dal progetto realizzato._
 
 ## Funzionalità
 
-_Le schermate sono a scopo illustrativo._
+_Le schermata sono state acquisite dal progetto realizzato._
 
-| Scegli Hotel| Scegli Stanza | Prenota | Scegli Data | 
+| Viewfinder| Horizon| PitchLadder | Display| 
 | ------------ | ------------ | ------------ | ------------ | 
 | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Viewfinder.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Horizon.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/PitchLadder.png" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Display.png" alt="Icona" width="200"/>| 
 |1| 2 | 3 |  4 |
