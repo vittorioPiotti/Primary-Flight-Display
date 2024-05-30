@@ -97,7 +97,7 @@ Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzon
     
           .\myenv\Scripts\Activate
 
-3.scarica tkinter 8.6 in ambiente virtuale:
+3 scarica tkinter 8.6 in ambiente virtuale:
 
           pip install tk
 
