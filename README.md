@@ -27,6 +27,6 @@ Soluzione software Primary Flight Display
 
 ## Funzionalità
 
-_ Le schermate sono a scopo rappresentativo e non devono essere acquisite dal progetto realizzato. _
+_ Le schermate sono a scopo illustrativo. _
 
 
