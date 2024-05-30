@@ -50,19 +50,13 @@ _Le schermata sono state acquisite dal progetto realizzato._
 
         -m venv myenv
 
-   
-    2.2 attiva ambiente virtuale:
+    2.2 attiva ambiente virtuale Max:
 
+        -m venv myenv
    
-     2.2.1     mac
+    2.3 attiva ambiente virtuale Windows:
     
-                    -m venv myenv
-   
-       
-      2.2.1     wind
-    
-                    -m venv myenv
-   
+        -m venv myenv
 
 3.scarica tkinter in ambiente virtuale:pip install tk
 
