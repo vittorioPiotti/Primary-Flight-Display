@@ -86,19 +86,19 @@ Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzon
 2. Configura ambiente virtuale:
     2.1. Crea ambiente virtuale
 
-        -m venv myenv
+          -m venv myenv
 
     2.2 attiva ambiente virtuale Max:
 
-        source myenv/bin/activate
+          source myenv/bin/activate
    
     2.3 attiva ambiente virtuale Windows:
     
-        .\myenv\Scripts\Activate
+          .\myenv\Scripts\Activate
 
 3.scarica tkinter 8.6 in ambiente virtuale:
 
-        pip install tk
+          pip install tk
 
 
 
