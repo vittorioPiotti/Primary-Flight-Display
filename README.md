@@ -54,9 +54,9 @@ Elaborazione dei dati di pitch e roll per la visualizzazione dei componenti graf
 |1| 2 | 3 | 
 
 Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzonte come:
-  - uno sfondo di colore cielo tutto schermo
-  - una linea di colore bianco tra questi punti per separare il cielo dalla terra
-  - Un quadrilatero di colore terra con massima altezza nei punti dati e base compresa tra i due margini bassi del display
+  - Display 600x600
+  - Orizzonte come segmento tra i punti degli estremi del display
+  - Terra come quadrilatero compreso tra la base e l'orizzonte del display
 
 
 #### Scala del Pitch
