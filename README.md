@@ -33,8 +33,30 @@ _Le schermata sono state acquisite dal progetto realizzato._
 
 1. Mirino 
 2. Orizzonte 
-3. Scala del pitch
+3. Scala del Pitch
 4. Display funzionante
+
+## Riepilogo Tecnico 
+
+### Obbiettivo
+
+Ricevere con frequenza di 100 ms i dati in formato json da server python.
+Elaborare i dati di pitch e roll per la visualizzazione del Primary Flight Display.
+
+
+### Soluzione 
+
+
+#### Mirino
+
+
+#### Orizzonte
+
+
+#### Scala del Pitch
+
+
+
 
 
 
