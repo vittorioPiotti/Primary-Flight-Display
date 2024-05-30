@@ -48,8 +48,7 @@ _Le schermata sono state acquisite dal progetto realizzato._
 2.Importa TKinter v.8.6
 3.Configura ambiente di sviluppo virtuale: 
 ```bash
-$ tree
-.
+
 
 
 ```
