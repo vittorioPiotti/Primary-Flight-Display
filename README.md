@@ -48,6 +48,7 @@ _Le schermata sono state acquisite dal progetto realizzato._
 2. Importa TKinter v.8.6
 3. Configura ambiente virtuale:
     3.1. Crea ambiente virtuale
+   
         ```bash
         
         -m venv myenv
