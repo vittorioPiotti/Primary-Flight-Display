@@ -79,6 +79,25 @@ Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzon
 3. Date le rette parallele ed i punti di intersezione con la perpendicolare si calcolano per ciascuno 2 punti equidistanti dal punto di intersezione
 
 
+### Tecnologie
+
+Framework e linguaggi
+  - React-native v.0.74.0
+  - Typescript
+    
+Comunicazione con server web:
+  -  Uso protocollo HTTPS
+  -  Utilizzo di Fetch
+  -  Sistena di API e Endpoints
+
+### Testing
+
+
+> [!TIP]
+> iPhone 14 Plus ([video](https://drive.google.com/file/d/1GU0UdAivfWaAG_9hqdG9vJs4TBVn2FR_/view?pli=1))
+> L’app è pronta per essere distribuita.
+
+
 
 ### Distribuzione Locale
 
