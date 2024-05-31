@@ -81,9 +81,9 @@ Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzon
 
 ### Tecnologie
 
-Framework e linguaggi
-  - React-native v.0.74.0
-  - Typescript
+Librerie e linguaggi
+  - Python 3.12 (link)
+  - TKinter 8.6 ([link](https://www.tcl.tk/software/tcltk/8.6.html)) 
     
 Comunicazione con server web:
   -  Uso protocollo HTTPS
