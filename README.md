@@ -94,6 +94,13 @@ Comunicazione con server Python:
   -  Comunicazione tramite socket
   -  Architettura Client-Server
 
+### Note sul Codice
+
+  1. Il codice è stato sviluppato in modo **compartimentato e modulare**.
+  2. È stata garantita una corretta **separazione dei compiti**
+  3. Sono stati sviluppati i **componenti grafici in classi autonome**
+  4. Il codice ha quindi la qualità di essere **scalabile e manutentibile**
+
 
 ### Testing
 
