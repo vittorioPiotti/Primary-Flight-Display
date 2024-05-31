@@ -178,7 +178,7 @@ $ tree
 
 - [Diego Ciucaloni](https://github.com/Diego-ciuck)
 - [Luca Niccià](https://github.com/lucaniccia)
-- [Luca Niccià](https://github.com/MatteoFabbioni)
+- [Matteo Fabbioni](https://github.com/MatteoFabbioni)
 - [Vittorio Piotti](https://github.com/vittorioPiotti)
 
 ## Sviluppi Futuri
