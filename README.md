@@ -101,10 +101,10 @@ Comunicazione con server Python:
 > | ------------ | ------------ | ------------ | ------------ | 
 > |1| 2 | 3 | 4 |
 > 
-> 1. Mirino 
-> 2. Orizzonte 
-> 3. Scala del Pitch
-> 4. Calcoli
+> 1. Mirino `Viewfinder.py`
+> 2. Orizzonte `Test_Horizon.py`
+> 3. Scala del Pitch `Test_PitchLadder.py`
+> 4. Calcoli `Test_Calc.py`
 
 
 
