@@ -65,7 +65,7 @@ Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzon
   1. Display di dimensione variabile
   2. Orizzonte come segmento tra i punti degli estremi del display
   3. Terra come quadrilatero compreso tra la base e l'orizzonte del display
-  4. Risultato
+  4. Componente Realizzato
 
 
 #### Scala del Pitch
@@ -79,7 +79,7 @@ Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzon
 1. Data la retta dell'orizzonte ed il centro del display si calcola la retta passante per il centro e perpendicolare all'orizzonte
 2. Data la retta dell'orizzonte e la retta ad esso perpendicolare si determina il punto di intersezione tra le parallele dell'orizzonte e la perpendicolare all'orizzonte
 3. Date le rette parallele ed i punti di intersezione con la perpendicolare si calcolano per ciascuno 2 punti equidistanti dal punto di intersezione
-
+4. Componente Realizzato
 
 ### Tecnologie
 
