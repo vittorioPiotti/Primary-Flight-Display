@@ -185,6 +185,10 @@ $ tree
 
 <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/yaw.png" alt="Icona" width="200"/>
 
+### Scala del Roll
+
+<img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/roll.png" alt="Icona" width="200"/>
+
 
 
 
