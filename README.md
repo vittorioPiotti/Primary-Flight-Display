@@ -108,7 +108,7 @@ Comunicazione con server Python:
 
 
 > [!WARNING]
-> MACOS ([video](https://drive.google.com/file/d/1GU0UdAivfWaAG_9hqdG9vJs4TBVn2FR_/view?pli=1))
+> MACOS ([video](https://drive.google.com/file/d/1O2NUyQX6dreFDlOx4WhHrVpao1NMTTvo/view))
 > Tutti i test hanno dato **esito positivo** garantendo la **stabiità del software** solo se **coefficiente angolare valido**
 
 
