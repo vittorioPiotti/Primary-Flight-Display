@@ -105,7 +105,7 @@ Comunicazione con server Python:
 
 
 > [!TIP]
-> iPhone 14 Plus ([video](https://drive.google.com/file/d/1GU0UdAivfWaAG_9hqdG9vJs4TBVn2FR_/view?pli=1))
+> MACOS ([video](https://drive.google.com/file/d/1GU0UdAivfWaAG_9hqdG9vJs4TBVn2FR_/view?pli=1))
 > L’app è pronta per essere distribuita.
 
 
