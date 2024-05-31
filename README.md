@@ -36,7 +36,7 @@ _Le schermata sono state acquisite dal progetto realizzato._
 1. Mirino `Viewfinder.py`
 2. Orizzonte `Horizon.py`
 3. Scala del Pitch `PitchLadder.py`
-4. PFD Display Aereo`display.py`
+4. PFD Display Aereo `display.py`
 
 ### Copyright
 
