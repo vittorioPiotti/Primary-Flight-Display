@@ -94,7 +94,7 @@ Comunicazione con server Python:
 
 > [!NOTE]
 > Script di Test Specifici per ogni componente grafico e di logica
-> | Mirino| Orizzonte| Scala del Pitch | Display| 
+> | Mirino| Orizzonte| Scala Pitch | Calcoli| 
 > | ------------ | ------------ | ------------ | ------------ | 
 > | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/perpendicolare.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/parallele.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/retta.png" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/retta.png" alt="Icona" width="200"/>|
 
