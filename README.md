@@ -85,10 +85,9 @@ Librerie e linguaggi
   - Python 3.12 ([link](https://www.python.org/doc/versions/))
   - TKinter 8.6 ([link](https://www.tcl.tk/software/tcltk/8.6.html)) 
     
-Comunicazione con server web:
-  -  Uso protocollo HTTPS
-  -  Utilizzo di Fetch
-  -  Sistena di API e Endpoints
+Comunicazione con server Python:
+  -  Connessione alla porta dell'ip del server
+  -  Comunicazione tramite socket
 
 ### Testing
 
