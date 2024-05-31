@@ -115,7 +115,7 @@ Comunicazione con server Python:
 
 > [!CAUTION]
 > MACOS ([video](https://drive.google.com/file/d/1GU0UdAivfWaAG_9hqdG9vJs4TBVn2FR_/view?pli=1))
-> Tutti i test hanno dato **esito positivo** garantendo la **stabiità del software** solo se coefficiente angolare valido
+> Errore se valore del coefficiente angolare non valido in quanto non è stato implementato nessun controllo per gestire questa casistica
 
 
 
