@@ -176,9 +176,9 @@ $ tree
 
 ## Crediti
 
-- Teammate One
-- Teammate Two
-- Teammate Three
+- [Diego Ciucaloni](https://github.com/Diego-ciuck)
+- [Luca Niccià](https://github.com/lucaniccia)
+- [Luca Niccià](https://github.com/MatteoFabbioni)
 - Vittorio Piotti
 
 ## Sviluppi Futuri
