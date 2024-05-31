@@ -70,9 +70,9 @@ Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzon
 
 #### Scala del Pitch
 
-| Mirino| Orizzonte| Scala del Pitch | Display| 
-| ------------ | ------------ | ------------ | ------------ | 
+
 | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Viewfinder.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Horizon.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/PitchLadder.png" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Display.png" alt="Icona" width="200"/>| 
+| ------------ | ------------ | ------------ | ------------ | 
 |1| 2 | 3 |  4 |
 
 
