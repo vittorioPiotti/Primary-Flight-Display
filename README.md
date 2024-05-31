@@ -114,7 +114,7 @@ Comunicazione con server Python:
 
 
 > [!CAUTION]
-> Errore se valore del **coefficiente angolare non valido** in quanto non è stato implementato **nessun controllo per gestire questa casistica**
+> `Fatal Error` se valore del **coefficiente angolare non valido** in quanto non è stato implementato **nessun controllo per gestire questa casistica**
 
 
 
