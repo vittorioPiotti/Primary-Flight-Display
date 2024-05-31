@@ -98,6 +98,7 @@ Comunicazione con server Python:
 > | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Viewfinder.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Horizon.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/PitchLadder.png" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/calcoli.png" alt="Icona" width="200"/>|
 > | ------------ | ------------ | ------------ | ------------ | 
 > |1| 2 | 3 | 4 |
+> 
 > 1. Mirino 
 > 2. Orizzonte 
 > 3. Scala del Pitch
