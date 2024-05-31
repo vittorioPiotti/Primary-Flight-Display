@@ -106,7 +106,7 @@ Comunicazione con server Python:
 
 > [!TIP]
 > MACOS ([video](https://drive.google.com/file/d/1GU0UdAivfWaAG_9hqdG9vJs4TBVn2FR_/view?pli=1))
-> L’app è pronta per essere distribuita.
+> I test hanno dato esito positivo garantendo la stabiità del software
 
 
 
