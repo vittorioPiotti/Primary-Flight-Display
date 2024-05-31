@@ -15,6 +15,7 @@ _La schermata è stata acquisita dal progetto realizzato._
 1. [Prodotto](#prodotto)
 2. [Riepilogo Tecnico](#riepilogo-tecnico)
 3. [Crediti](#crediti)
+4. [Sviluppi Futuri](#sviluppi-futuri)
 
 ---
 
@@ -143,13 +144,6 @@ Comunicazione con server Python:
           pip install tk
 
 
-### Sviluppi Futuri
-
-
-#### Scala dello Yaw
-
-<img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/yaw.png" alt="Icona" width="200"/>
-
 
 ### Albero di Path
 
@@ -183,5 +177,14 @@ $ tree
 - Teammate Two
 - Teammate Three
 - Vittorio Piotti
+
+## Sviluppi Futuri
+
+
+### Scala dello Yaw
+
+<img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/yaw.png" alt="Icona" width="200"/>
+
+
 
 
