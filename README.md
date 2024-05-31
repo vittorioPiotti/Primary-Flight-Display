@@ -154,7 +154,7 @@ Comunicazione con server Python:
 
           pip install tk
 
-3. Carica i file sorgenti eventualmente sostituendo quelli già presenti
+3. Caricare i file sorgenti eventualmente sostituendo quelli già presenti
 
 
 ### Albero di Path
