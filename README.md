@@ -27,7 +27,7 @@ _La schermata è stata acquisita dal progetto realizzato._
 
 _Le schermata sono state acquisite dal progetto realizzato._
 
-| Mirino| Orizzonte| Scala del Pitch | Display| 
+| Mirino| Orizzonte| Scala del Pitch | PFD| 
 | ------------ | ------------ | ------------ | ------------ | 
 | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Viewfinder.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Horizon.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/PitchLadder.png" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Display.png" alt="Icona" width="200"/>| 
 |1| 2 | 3 |  4 |
@@ -35,7 +35,7 @@ _Le schermata sono state acquisite dal progetto realizzato._
 1. Mirino 
 2. Orizzonte 
 3. Scala del Pitch
-4. Display funzionante
+4. PFD Display Aereo
 
 ### Copyright
 
