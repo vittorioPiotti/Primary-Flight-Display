@@ -101,7 +101,7 @@ Comunicazione con server web:
 
 ### Distribuzione Locale
 
-1. Configura `Python v.3.12`
+1. Configura `Python v.3.12` ([link](https://www.python.org/doc/versions/))
 2. Configura ambiente virtuale:
    
     2.1. Crea ambiente virtuale
@@ -116,7 +116,7 @@ Comunicazione con server web:
     
           .\myenv\Scripts\Activate
 
-3. scarica `tkinter v.8.6` in ambiente virtuale:
+3. scarica `tkinter v.8.6` ([link](https://www.tcl.tk/software/tcltk/8.6.html))  in ambiente virtuale:
 
           pip install tk
 
