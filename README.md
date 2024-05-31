@@ -94,10 +94,9 @@ Comunicazione con server Python:
 
 > [!NOTE]
 > È stato creato uno script di test per ogni componente grafico o di logica da testare.
-> | Mirino| Orizzonte| Scala Pitch | Calcoli| 
-> | ------------ | ------------ | ------------ | ------------ | 
 > | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Viewfinder.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Horizon.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/PitchLadder.png" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/calcoli.png" alt="Icona" width="200"/>|
-
+>| ------------ | ------------ | ------------ | ------------ | 
+|1| 2 | 3 | 4 |
 
 > [!TIP]
 > iPhone 14 Plus ([video](https://drive.google.com/file/d/1GU0UdAivfWaAG_9hqdG9vJs4TBVn2FR_/view?pli=1))
