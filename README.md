@@ -34,7 +34,7 @@ _Le schermata sono state acquisite dal progetto realizzato._
 | ------------ | ------------ | ------------ | ------------ | 
 |1| 2 | 3 |  4 |
 
-1. Mirino `Viewfinder.py`
+1. Mirino `Viewfinder.py` ([link](https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/source/src/Viewfinder.py))
 2. Orizzonte `Horizon.py`
 3. Scala del Pitch `PitchLadder.py`
 4. PFD Display Aereo `display.py`
