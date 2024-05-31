@@ -33,10 +33,10 @@ _Le schermata sono state acquisite dal progetto realizzato._
 | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Viewfinder.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Horizon.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/PitchLadder.png" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Display.png" alt="Icona" width="200"/>| 
 |1| 2 | 3 |  4 |
 
-1. Mirino 
-2. Orizzonte 
-3. Scala del Pitch
-4. PFD Display Aereo
+1. Mirino `Viewfinder.py`
+2. Orizzonte `Horizon.py`
+3. Scala del Pitch `PitchLadder.py`
+4. PFD Display Aereo`display.py`
 
 ### Copyright
 
