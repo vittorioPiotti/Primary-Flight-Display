@@ -112,7 +112,7 @@ Comunicazione con server Python:
 > Tutti i test hanno dato **esito positivo** garantendo la **stabiità del software** solo se **coefficiente angolare valido**
 
 > [!CAUTION]
-> Rivedere ed ottimizzare la logica dei componenti grafici per visualizzare 'PitchLadder.py' 
+> Rivedere ed ottimizzare la logica dei componenti grafici per visualizzare `PitchLadder.py`
 
 
 > [!CAUTION]
