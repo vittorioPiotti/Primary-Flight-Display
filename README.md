@@ -120,15 +120,15 @@ Comunicazione con server Python:
 
 
 > [!WARNING]
-> MACOS ([video](https://drive.google.com/file/d/1O2NUyQX6dreFDlOx4WhHrVpao1NMTTvo/view))
-> Tutti i test hanno dato **esito positivo** garantendo la **stabiità del software** solo se **coefficiente angolare valido**
+> MacOS ([video](https://drive.google.com/file/d/1O2NUyQX6dreFDlOx4WhHrVpao1NMTTvo/view))
+> Tutti i test hanno dato **esito positivo** garantendo la **stabiità del software** solo se il **coefficiente angolare valido**
 
 > [!WARNING]
-> Rivedere ed ottimizzare la logica dei componenti grafici per visualizzare `PitchLadder.py`
+> Rivedere ed ottimizzare la logica dei componenti grafici per visualizzare il `PitchLadder.py`
 
 
 > [!CAUTION]
-> `Fatal Error` se valore del **coefficiente angolare non valido** in quanto non è stato implementato **nessun controllo per gestire questa casistica**
+> `Fatal Error` se il valore del **coefficiente angolare non valido** in quanto non è stato implementato **nessun controllo per gestire questo caso**
 
 
 
@@ -154,6 +154,7 @@ Comunicazione con server Python:
 
           pip install tk
 
+3. Carica i file sorgenti eventualmente sostituendo quelli già presenti
 
 
 ### Albero di Path
