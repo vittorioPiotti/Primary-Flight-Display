@@ -55,14 +55,15 @@ Elaborazione dei dati di pitch e roll per la visualizzazione dei componenti graf
 
 #### Orizzonte
 
-| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/schermo.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/orizzonte.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/terra.png" alt="Icona" width="200"/>|
-| ------------ | ------------ | ------------ | 
-|1| 2 | 3 | 
+| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/schermo.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/orizzonte.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/terra.png" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Horizon.png" alt="Icona" width="200"/>|
+| ------------ | ------------ | ------------ | ------------ | 
+|1| 2 | 3 | 4 |
 
 Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzonte come:
   1. Display di dimensione variabile
   2. Orizzonte come segmento tra i punti degli estremi del display
   3. Terra come quadrilatero compreso tra la base e l'orizzonte del display
+  4. Risultato
 
 
 #### Scala del Pitch
