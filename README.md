@@ -143,6 +143,14 @@ Comunicazione con server Python:
           pip install tk
 
 
+### Sviluppi Futuri
+
+
+#### Scala dello Yaw
+
+<img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/yaw.png" alt="Icona" width="200"/>
+
+
 ### Albero di Path
 
 ```bash
@@ -165,13 +173,6 @@ $ tree
 ```
 
 
-
-### Sviluppi Futuri
-
-
-#### Scala dello Yaw
-
-<img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/yaw.png" alt="Icona" width="200"/>
 
 
 
