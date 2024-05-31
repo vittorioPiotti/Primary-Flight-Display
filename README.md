@@ -92,6 +92,11 @@ Comunicazione con server Python:
 
 ### Testing
 
+> [!TIP]
+> Test Specifici per ogni componente grafico
+> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/perpendicolare.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/parallele.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/retta.png" alt="Icona" width="200"/>|
+| ------------ | ------------ | ------------ | 
+|1| 2 | 3 | 
 
 > [!TIP]
 > iPhone 14 Plus ([video](https://drive.google.com/file/d/1GU0UdAivfWaAG_9hqdG9vJs4TBVn2FR_/view?pli=1))
