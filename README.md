@@ -111,6 +111,8 @@ Comunicazione con server Python:
 > MACOS ([video](https://drive.google.com/file/d/1O2NUyQX6dreFDlOx4WhHrVpao1NMTTvo/view))
 > Tutti i test hanno dato **esito positivo** garantendo la **stabiità del software** solo se **coefficiente angolare valido**
 
+> [!CAUTION]
+> Rivedere ed ottimizzare la logica dei componenti grafici per visualizzare 'PitchLadder.py' 
 
 
 > [!CAUTION]
