@@ -88,6 +88,7 @@ Librerie e linguaggi
 Comunicazione con server Python:
   -  Connessione alla porta dell'ip del server
   -  Comunicazione tramite socket
+  -  Architettura Client-Server
 
 ### Testing
 
