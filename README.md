@@ -82,7 +82,7 @@ Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzon
 ### Tecnologie
 
 Librerie e linguaggi
-  - Python 3.12 (link)
+  - Python 3.12 ([link](https://www.python.org/doc/versions/))
   - TKinter 8.6 ([link](https://www.tcl.tk/software/tcltk/8.6.html)) 
     
 Comunicazione con server web:
