@@ -142,7 +142,7 @@ Comunicazione con server Python:
 
           -m venv myenv
 
-    2.2. attiva ambiente virtuale Max:
+    2.2. attiva ambiente virtuale Mac:
 
           source myenv/bin/activate
    
