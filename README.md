@@ -64,7 +64,7 @@ Elaborazione dei dati di pitch e roll per la visualizzazione dei componenti graf
 |1| 2 | 3 | 4 |
 
 Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzonte come:
-  1. Display di dimensione variabile
+  1. Display quadrilatero di dimensione variabile
   2. Orizzonte come segmento tra i punti degli estremi del display
   3. Terra come quadrilatero compreso tra la base e l'orizzonte del display
   4. Componente Realizzato
@@ -86,8 +86,8 @@ Dati due punti qualsiasi agli estremi della larghezza del display crea l'orizzon
 ### Tecnologie
 
 Librerie, linguaggi e codice
-  - Python 3.12 ([link](https://www.python.org/doc/versions/))
-  - TKinter 8.6 ([link](https://www.tcl.tk/software/tcltk/8.6.html))
+  - Python v.3.12 ([link](https://www.python.org/doc/versions/))
+  - TKinter v.8.6 ([link](https://www.tcl.tk/software/tcltk/8.6.html))
   - **Separazione dei compiti** per i componenti grafici in **classi autonome** garendo **la scalabilità e la manutentibilità del codice.**
     
 Comunicazione con server Python:
