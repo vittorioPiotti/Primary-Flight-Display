@@ -46,11 +46,25 @@ _Le schermata sono state acquisite dal progetto realizzato._
 
 ## Riepilogo Tecnico 
 
+
 ### Obbiettivo
 
 Ricezione con una frequenza di 100 ms i dati in formato json dal server python.
 
 Elaborazione dei dati di pitch e roll per la visualizzazione dei componenti grafici.
+
+
+## Indice
+
+1. [Soluzione](#soluzione)
+2. [Tecnologie](#tecnologie)
+3. [Note sul Codice](#note-sul-codice)
+4. [Riferimenti Matematici](#riferimenti-matematici)
+5. [Testing](#testing)
+6. [Distribuzione Locale](#distribuzione-locale)
+7. [Albero di Path](#albero-di-path)
+---
+
 
 
 ### Soluzione 
