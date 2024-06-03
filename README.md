@@ -108,7 +108,7 @@ Comunicazione con server Python:
 
 | Formula | Nome | Descrizione | 
 | ------------ | ------------ | ------------ |
-| \(\frac{y - y_1}{y_2 - y_1} = \frac{x - x_1}{x_2 - x_1}\) | Equazione parametrica della retta | Utilizzato per calcolare l’equazione delle rette dei segmenti | 
+| $`\(\frac{y - y_1}{y_2 - y_1} = \frac{x - x_1}{x_2 - x_1}\`$) | Equazione parametrica della retta | Utilizzato per calcolare l’equazione delle rette dei segmenti | 
 | \(\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}\) | Distanza euclidea tra due punti in un piano cartesiano | Utilizzato per calcolare la lunghezza del segmento che collega due punti | 
 | \(y = y_0 + m(x - x_0)\) | Equazione del fascio di rette passante per un punto | Utilizzato per calcolare l’equazione della retta dell’orizzonte | 
 | \(x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}\) | Soluzione dell'equazione quadratica | Utilizzato per trovare le soluzioni di un'equazione quadratica quando \(a \ne 0\) |
