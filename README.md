@@ -120,10 +120,14 @@ Comunicazione con server Python:
 
 ### Riferimenti Matematici
 
-| Formula | Nome | Descrizione | 
-| ------------ | ------------ | ------------ |
-| $\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$ | Distanza euclidea tra due punti in un piano cartesiano | Utilizzato per calcolare la lunghezza del segmento che collega due punti | 
-| $y = y_0 + m(x - x_0)$ | Equazione del fascio di rette passante per un punto | Utilizzato per calcolare l’equazione della retta dell’orizzonte | 
+| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/f1.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/f2.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/f3.png" alt="Icona" width="200"/>|
+| ------------ | ------------ | ------------ | 
+| Equazione parametrica della retta  | Distanza euclidea tra due punti in un piano cartesiano | Equazione del fascio di rette passante per un punto |
+| Calcola l’equazione delle rette dei segmenti | Calcola la lunghezza del segmento che collega due punti | Calcola l’equazione della retta dell’orizzonte | 
+
+
+
+
 
 
 
