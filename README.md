@@ -127,6 +127,8 @@ Comunicazione con server Python:
 | $y = y_0 + m(x - x_0)$ | Equazione del fascio di rette passante per un punto | Utilizzato per calcolare l’equazione della retta dell’orizzonte | 
 
 
+$\frac{y - y_1}{y_2 - y_1} = \frac{x - x_1}{x_2 - x_1}$
+
 ### Testing
 
 
