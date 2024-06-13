@@ -242,7 +242,7 @@ $ tree
 | Componente         | Versione  | Copyright                         | Licenza                                                       |
 |--------------------|-----------|-----------------------------------|---------------------------------------------------------------|
 | Primary-Flight-Display | v1.0.0    | 2024 Vittorio Piotti, Diego Ciucaloni, Matteo Fabbioni, Luca Niccià             | [GPL-3.0 License](https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/LICENSE.md) |
-| TKinter          |  v.8.6  | Python Software Foundation; Autori principali: Guido van Rossum e contributori del progetto CPython | [0BSD](https://github.com/python/cpython/tree/3.12?tab=License-1-ov-file) |
+| TKinter          |  v.8.6  | Python Software Foundation; Autori principali: Guido van Rossum e contributori del progetto CPython | [0BSD](https://docs.python.org/3/license.html ) |
 
 
 
