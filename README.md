@@ -114,7 +114,7 @@ Comunicazione con server Python:
   1. Il codice è stato sviluppato in modo **compartimentato e modulare**.
   2. È stata garantita una corretta **separazione dei compiti**
   3. Sono stati sviluppati i **componenti grafici in classi autonome**
-  4. Il codice ha quindi la qualità di essere **scalabile e manutentibile**
+  4. Il codice ha quindi la qualità di essere **scalabile e facile da mantenere**
 
 
 
@@ -138,8 +138,10 @@ Comunicazione con server Python:
 ### Testing
 
 
+
+
 > [!NOTE]
-> È stato creato uno script di test per ogni componente grafico o di logica da testare garantendo **la scalabilità e la facile manutenzione del codice.**
+> Sono stati effettuati **Test Unitari** e di **Test di Itergrazione** che hanno dato **esito positivo**
 > | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Viewfinder.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/Horizon.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/PitchLadder.png" alt="Icona" width="200"/>| <img src="https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/project/screenshots/calcoli.png" alt="Icona" width="200"/>|
 > | ------------ | ------------ | ------------ | ------------ | 
 > |1| 2 | 3 | 4 |
