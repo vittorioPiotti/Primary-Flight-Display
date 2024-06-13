@@ -1,3 +1,11 @@
+"""
+Primary Flight Display v1.0.0 (https://github.com/vittorioPiotti/Primary-Flight-Display/releases/tag/1.0.0)
+Copyright 2024 Vittorio Piotti, Diego Ciucaloni, Matteo Fabbioni, Luca Niccià
+Licensed under GPL-3.0 (https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/LICENSE.md)
+"""
+
+
+
 import math
 
 class Calc:
