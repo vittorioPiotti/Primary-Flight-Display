@@ -1,3 +1,21 @@
+"""
+Primary Flight Display v1.0.0 (https://github.com/vittorioPiotti/Primary-Flight-Display/releases/tag/1.0.0)
+Copyright 2024 Vittorio Piotti, Diego Ciucaloni, Matteo Fabbioni, Luca Niccià
+Licensed under GPL-3.0 (https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/LICENSE.md)
+"""
+
+"""
+TKinter 8.6
+-----------
+TKinter is distributed as part of the Python Standard Library.
+
+Python Software Foundation License Version 2
+
+For the full license text, please visit:
+https://docs.python.org/3/license.html
+"""
+
+
 import time
 import socket
 import json
