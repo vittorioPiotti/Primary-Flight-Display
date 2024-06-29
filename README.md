@@ -2,6 +2,10 @@
 
 Soluzione software Primary Flight Display
 
+> [!TIP]
+> Corretto funzionamento garantito
+
+
 ---
 
 _La schermata è stata acquisita dal progetto realizzato._
