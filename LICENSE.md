@@ -2,7 +2,7 @@
 
 Version 3, 29 June 2007
 
-Copyright (C) 2024 PrimaryFlightDisplay author Diego Ciucaloni, Vittorio Piotti, Matteo Fabbioni, Luca Niccià
+Copyright (C) 2024 PrimaryFlightDisplay authors Diego Ciucaloni, Vittorio Piotti, Matteo Fabbioni, Luca Niccià
 
 Everyone is permitted to copy and distribute verbatim copies of this
 license document, but changing it is not allowed.
