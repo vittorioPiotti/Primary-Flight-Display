@@ -253,10 +253,27 @@ $ tree
 
 ## Licenze
 
-| Componente         | Versione  | Copyright                         | Licenza                                                       |
-|--------------------|-----------|-----------------------------------|---------------------------------------------------------------|
-| [Primary-Flight-Display](https://github.com/vittorioPiotti/Primary-Flight-Display) | [v1.0.0](https://github.com/vittorioPiotti/Primary-Flight-Display/releases/tag/1.0.0)    | 2024 Vittorio Piotti, Diego Ciucaloni, Matteo Fabbioni, Luca Niccià             | [GPL-3.0 ](https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/LICENSE.md) |
-| TKinter          |  v.8.6  | Python Software Foundation| [PSF v2](https://docs.python.org/3/license.html ) |
+
+### Primary Flight Display
+
+**Copyright** 2024 Vittorio Piotti, Diego Ciucaloni, Matteo Fabbioni, Luca Niccià
+
+**Version** [v1.0.0](https://github.com/vittorioPiotti/Primary-Flight-Display/releases/tag/1.0.0)
+
+**License** [GPL-3.0](https://github.com/vittorioPiotti/Primary-Flight-Display/blob/main/LICENSE.md)
+
+---
+
+### TKinter
+
+**Copyright** Python Software Foundation
+
+**Version** [v.8.6](https://www.tcl.tk/software/tcltk/8.6.html)
+
+**License** [PSF v2](https://docs.python.org/3/license.html)
+
+---
+
 
 
 
