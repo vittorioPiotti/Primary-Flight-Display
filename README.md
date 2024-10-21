@@ -8,8 +8,7 @@ Soluzione software Primary Flight Display
 
 
 
-> [!TIP]
-> Corretto funzionamento garantito
+
 
 #### Support Me
 
