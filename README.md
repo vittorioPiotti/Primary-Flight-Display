@@ -4,7 +4,7 @@ Soluzione software Primary Flight Display
 
 
 > [!NOTE]
-> Progetto scolastico
+> Progetto scolastico 🎓
 
 
 
